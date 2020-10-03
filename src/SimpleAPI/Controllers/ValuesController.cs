@@ -13,7 +13,7 @@ namespace SimpleAPI.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Value1", "Value2"
+            "Value123", "Value21"
         };
 
         private readonly ILogger<ValuesController> _logger;
